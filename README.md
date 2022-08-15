@@ -128,7 +128,7 @@ Being aware that I have a lot to learn motivates me a lot.
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" width="48" height="48" alt="TailwindCSS" />
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="TailwindCSS" />
       </a>
       <br>Firebase
     </td>
