@@ -5,7 +5,7 @@
 
 ### Glad to see you here! :octocat:
 
-I'm a **Front-end Developer**. An enthusiast for continuous learning and a self-taught person.
+I'm a **Full Stack Developer**. An enthusiast for continuous learning and a self-taught person.
 I have studies at <a href="https://platzi.com/"> Platzi</a>, <a href="https://www.uc.cl/">Universidad Católica de Chile</a>, <a href="https://codely.com/">CodelyTV </a>and <a href="https://www.soyhenry.com/">Henry</a>.
 Being aware that I have a lot to learn motivates me a lot.
 ---
